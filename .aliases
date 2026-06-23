@@ -27,3 +27,6 @@ alias typecheck-web="turbo typecheck -F web-client"
 alias make-types="just generate-types"
 alias story="just dev-storybook"
 alias test="just unit-test"
+
+alias rzsh="source ~/.zshrc"
+alias cc="claude --dangerously-skip-permissions"
