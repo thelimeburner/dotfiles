@@ -30,3 +30,4 @@ alias test="just unit-test"
 
 alias rzsh="source ~/.zshrc"
 alias cc="claude --dangerously-skip-permissions"
+alias init="just post-pull && just dev-start-web"
